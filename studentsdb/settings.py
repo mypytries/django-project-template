@@ -100,4 +100,6 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
+# STATICFILES_DIRS='~/python_scripts/studentsdb/src/studentsdb/students/static',
+
 STATIC_URL = '/static/'
